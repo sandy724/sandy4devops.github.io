@@ -30,7 +30,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Git Repo":
-    - "//github.com/sandy724/sandy724.github.io"
-  "Container Kit":
-    - "//github.com/OT-CONTAINER-KIT"
+  "Opstree Solutions":
+    - "https://www.opstree.com/"
+  "Buildpiper":
+    - "https://www.buildpiper.io/"
+  "DevOps Ninja":
+    - "http://www.devopsninja.in/"
+  "Blog":
+    - "https://blog.opstree.com/"
