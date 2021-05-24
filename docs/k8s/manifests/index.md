@@ -1,6 +1,6 @@
 ---
 layout: default
-title: manifests
+title: Manifests
 nav_order: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: security
+title: Security
 nav_order: 3
 ---
 

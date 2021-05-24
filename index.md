@@ -8,5 +8,4 @@ permalink: /
 
 Areas that I'm focussing right now
 * k8s
-    * Security
-    * Resources
+    
