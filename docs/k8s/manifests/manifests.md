@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Kubernetes
-nav_order: 3
 has_children: true
 description: "All the content related to k8s."
 permalink: docs/k8s/manifests
