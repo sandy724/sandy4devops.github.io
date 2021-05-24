@@ -1,3 +1,9 @@
+---
+layout: default
+title: security
+nav_order: 3
+---
+
 # k8s Security
 This page will contain all the details regarding k8s Security
 ## References
