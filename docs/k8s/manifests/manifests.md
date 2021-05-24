@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Kubernetes
+title: k8s Manifests
 has_children: true
 description: "All the content related to k8s."
 permalink: docs/k8s/manifests
+parent: Kubernetes
 ---
 
 # k8s Manifests

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Security
+title: k8s Security
 has_children: true
 parent: Kubernetes
 ---
