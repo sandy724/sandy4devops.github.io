@@ -30,5 +30,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Documentations":
+  "Git Repo":
     - "//github.com/sandy724/sandy724.github.io"
+  "Container Kit":
+    - "//github.com/OT-CONTAINER-KIT"
