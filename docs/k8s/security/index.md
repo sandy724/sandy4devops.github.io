@@ -3,6 +3,7 @@ layout: default
 title: k8s Security
 has_children: true
 parent: Kubernetes
+permalink: docs/k8s/security
 ---
 
 # k8s Security
