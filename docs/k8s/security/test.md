@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test
-nav_order: 3
+parent: Kubernetes
 description: "All the content related to k8s."
 permalink: docs/test
 ---
