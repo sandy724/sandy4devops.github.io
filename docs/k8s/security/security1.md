@@ -2,6 +2,7 @@
 layout: default
 title: k8s Security 1
 parent: k8s Security
+permalink: docs/k8s/security/security1.md
 ---
 
 # k8s Security 1
