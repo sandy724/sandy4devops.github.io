@@ -1,6 +1,6 @@
 ---
 layout: default
-title: k8s Security
+title: Kubernetes Security
 has_children: true
 parent: Kubernetes
 permalink: docs/k8s/security

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: k8s Security 1
-parent: k8s Security
+title: Kubernetes Security 1
+parent: Kubernetes Security
 permalink: docs/k8s/security/security1.md
 ---
 
