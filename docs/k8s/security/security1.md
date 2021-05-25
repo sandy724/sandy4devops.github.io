@@ -1,7 +1,7 @@
 ---
 layout: default
 title: k8s Security 1
-parent: k8s Security
+parent: k8sSecurity
 ---
 
 # k8s Security 1
